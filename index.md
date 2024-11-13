@@ -2,7 +2,7 @@
 
 **Name**: Jason Gu  
 **Email**: jig036@ucsd.edu  
-**Section**: B15 
+**Section**: B15  
 **Mentor**: Ari Gaffen, James McCloskey, and Phi Nguyen 
 
 ## Quarter 2 Project Proposal
