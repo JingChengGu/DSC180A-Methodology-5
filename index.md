@@ -1,4 +1,3 @@
-# DSC180A-Methodology-5  
 
 **Name**: Jason Gu  
 **Email**: jig036@ucsd.edu  
